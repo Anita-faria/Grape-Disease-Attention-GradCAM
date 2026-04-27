@@ -99,11 +99,6 @@ Grape-Disease-Attention-GradCAM/
 **Grape Disease Dataset (Original)**  
 📦 [Kaggle — rm1000/grape-disease-dataset-original](https://www.kaggle.com/datasets/rm1000/grape-disease-dataset-original)
 
-| Split | Location |
-|-------|----------|
-| Train | `/content/dataset/Original Data/train` |
-| Test | `/content/dataset/Original Data/test` |
-
 ---
 
 ## ⚙️ Training Configuration
